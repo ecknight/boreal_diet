@@ -1,4 +1,6 @@
-rm(list=ls())
+#title: Analysis and figures for Knight et al. 2018 An inordinate fondness for beetles: first description of Common Nighthawk diet for the boreal biome. The Wilson Journal of Ornithology 130(2):525-531.
+#author: Elly C. Knight
+#date: May 14, 2017
 
 setwd("~/Documents/UoA/Projects/Food Note/Analysis")
 
